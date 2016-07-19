@@ -1,7 +1,7 @@
 Package: KOdata
 Type: Package
 Title: LINCS Knock-Out Data Package
-Version: 0.1
+Version: 0.99.0
 Date: 2016-06-23
 Author: Shana White
 Maintainer: Who to complain to <vandersm@mail.uc.edu>
@@ -9,6 +9,7 @@ Description: Contains consensus genomic signatures (CGS) for experimental cell-l
 License: MIT + file LICENSE
 LazyData: TRUE
 RoxygenNote: 5.0.1
-Depends: R (>= 2.10)
+Depends: R (>= 3.2.0)
+biocViews: ExpressionData, CancerData, Homo_sapiens_Data
 NeedsCompilation: no
 Packaged: 2016-06-23 18:55:35 UTC; vandersm
