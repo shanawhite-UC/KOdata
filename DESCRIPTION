@@ -1,7 +1,7 @@
 Package: KOdata
 Type: Package
 Title: LINCS Knock-Out Data Package
-Version: 0.99.0
+Version: 0.99.1
 Date: 2016-06-23
 Author: Shana White
 Maintainer: <vandersm@mail.uc.edu>
