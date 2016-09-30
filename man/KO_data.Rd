@@ -19,8 +19,13 @@
 \usage{
 data(KO_data)
 }
+\value{
+A data.frame object
+}
 \description{
-This data set contains consensus genome signatures (CGS) that are the result of experimental knock-out studies conducted by the BROAD Institute.
+This data set contains consensus genome signatures (CGS) 
+that are the result of experimental knock-out studies conducted by the 
+BROAD Institute.
 }
 \references{
 http://lincsportal.ccs.miami.edu

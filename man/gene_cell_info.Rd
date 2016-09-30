@@ -16,8 +16,13 @@
 \usage{
 data(gene_cell_info)
 }
+\value{
+A data.frame object
+}
 \description{
-This data set contains baseline expression measurements for genes in cell lines [without any experimental perturbations] as profiles by LINCS
+This data set contains baseline expression measurements for 
+genes in cell lines [without any experimental perturbations] as profiled
+by the LINCS data consortium
 }
 \keyword{datasets}
 
